@@ -1,3 +1,9 @@
 {
-  "singleQuote": true
+  "singleQuote": true,
+  "trailingComma": "all",
+  "semi": true,
+  "arrowParens": "always",
+  "no-trailing-spaces": true,
+  "htmlWhitespaceSensitivity": "strict",
+  "printWidth": 100
 }
