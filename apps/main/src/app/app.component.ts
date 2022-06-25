@@ -1,8 +1,8 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'pomodoro-app-root',
-  template: ` <pomodoro-app-nx-welcome></pomodoro-app-nx-welcome> `,
+  selector: 'app-root',
+  template: ` <app-nx-welcome></app-nx-welcome> `,
   styles: [],
 })
 export class AppComponent {

@@ -4,6 +4,7 @@
   "projects": {
     "core-domain": "libs/core/domain",
     "main": "apps/main",
-    "main-e2e": "apps/main-e2e"
+    "main-e2e": "apps/main-e2e",
+    "shared": "libs/shared"
   }
 }
