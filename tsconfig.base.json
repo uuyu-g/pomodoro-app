@@ -8,6 +8,7 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "importHelpers": true,
+    "strict": true,
     "target": "es2015",
     "module": "esnext",
     "lib": ["es2017", "dom"],
@@ -15,8 +16,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@pomodoro-app/shared": ["libs/shared/src/index.ts"],
-      "@pomodoro-app/core/domain": ["libs/core/domain/src/index.ts"]
+      "@pomodoro-app/core/domain": ["libs/core/domain/src/index.ts"],
+      "@pomodoro-app/shared": ["libs/shared/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
