@@ -6,6 +6,7 @@
     "functions": "apps/functions",
     "main": "apps/main",
     "main-e2e": "apps/main-e2e",
+    "desktop": "apps/desktop",
     "shared": "libs/shared"
   }
 }
